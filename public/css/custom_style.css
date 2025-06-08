@@ -1,0 +1,12 @@
+    .dataTables_filter input {
+        margin-left: 0.5em;
+        display: inline-block;
+        width: 72% !important;
+    }
+    
+    .category_boxs {
+        border: 2px solid #ccc;
+        /* width: 300px; */
+        height: 205px;
+        overflow-y: scroll;
+    }
